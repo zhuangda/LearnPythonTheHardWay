@@ -16,4 +16,4 @@ print "We need to put about", average_passengers_per_car, "in each car."
 
 
 print "Hey %s there." % "you"
-print "Minor "
+print "Minor Change"
